@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! My name is Kareem Maamoun and I am a senior at John McCrae Secondary School. Currently working on web-development through the Fullstack open course! Also, am currently bombarded with exams, Always looking forwards to the next chapter, feel free to reach out!
+Hello! My name is Kareem Maamoun and I am a senior at John McCrae Secondary School. Currently working on web-development through the Fullstack open course! Also, am currently bombarded with exams, but am always looking forwards to the next chapter. So, feel free to reach out!
 
 
 ## 🌐 Socials:
