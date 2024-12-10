@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! My name is Kareem Maamoun and I am a senior at John McCrae Secondary School. Currently working on web-development through self learning, and am always looking forwards to the next chapter. So, feel free to reach out!
+Hello! My name is Kareem Maamoun and I am First Year at Carleton University. Currently working on web-development through self learning, and am always looking forwards to the next chapter. So, feel free to reach out!
 
 
 ## 🌐 Socials:
