@@ -1,5 +1,3 @@
-### Hey, I'm Kareem.
+### hey im kareem
 
-Software engineering student at Carleton University, currently interning at Shopify.
-
-Interested in distributed systems, infrastructure, and machine learning.
+software engineering student at carleton university, infra at shopify.
