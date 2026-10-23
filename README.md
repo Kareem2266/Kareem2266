@@ -1,3 +1,3 @@
 ### hey im kareem
 
-computer science student at carleton university, infra at shopify.
+computer science student @ carleton university, infra @ shopify.
